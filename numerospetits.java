@@ -6,7 +6,7 @@ public class numerospetits {
 	public static void main(String[] args){	
 	
 		Scanner lector = new Scanner(System.in);
-		int [] Nums = new int[5];
+		int [] Nums = new int[10];
 		
 		for(int i=0; i<Nums.length ; i++){
 			System.out.println("Entra un numero:");

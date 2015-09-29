@@ -1,4 +1,5 @@
 package numerospetit;
+/*comentari barreja*/
 import java.util.Scanner;
 import java.util.Arrays;
 public class numerospetits {

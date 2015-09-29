@@ -13,6 +13,7 @@ public class numerospetits {
 			Nums [i] = lector.nextInt();
 		}
 		Arrays.sort(Nums);
-		System.out.println("El numero menor es: " + Nums[0]);
+		System.out.println("El numero menor es: " + Nums[0]
+                System.out.println("El numero major es: " + Nums[10]);
 	}
 }

@@ -17,3 +17,4 @@ public class numerospetits {
                 System.out.println("El numero major es: " + Nums[10]);
 	}
 }
+/* comentari projecte 1*/
